@@ -1,3 +1,19 @@
+## Blogging Web-App using Flask and MongoDB
+
+Name: Abhay K Iyengar
+
+SRN: PES1UG20CS004
+
+Section: A
+
+## Team Members
+
+1. Abhay K Iyengar (SRN: PES1UG20CS004)
+2. Abhishek Singhi (SRN: PES1UG20CS011)
+3. Allamaprabhu (SRN: PES1UG20CS031)
+4. Aniket Acharya (SRN: PES1UG20CS052)
+
+
 ## Problem Statement
 Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. Microservices architectures make applications easier to scale and faster to develop, enabling innovation and accelerating time-to-market for new features.
 Docker and Kubernetes are almost synonymous to 'microservices' as they help package and manage the different components of a project/ application, thereby easing up the implementation of a microservices architecture.
